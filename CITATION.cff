@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it as below.
+type: dataset
+title: 'GIS-Based Monitoring of Grape Moth (Lobesia botrana) at Quinta da Senhora
+  da Graca, Douro Demarcated Region, Portugal'
+authors:
+- family-names: Halilu
+  given-names: Naziru
+  orcid: https://orcid.org/0009-0006-2324-9599
+repository-code: https://github.com/halilunaziru73-creator/GIS-Monitoring-of-Grape-Moth-Vineyard-Pest
+license: MIT
+date-released: '2026-09-13'
+keywords:
+- GIS
+- precision viticulture
+- Lobesia botrana
+- vineyard pest monitoring
+- spatial analysis
