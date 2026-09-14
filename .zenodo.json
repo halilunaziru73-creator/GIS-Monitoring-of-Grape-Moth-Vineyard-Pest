@@ -1,9 +1,30 @@
 {
   "title": "GIS-Based Monitoring of Grape Moth (Lobesia botrana) at Quinta da Senhora da Graca, Douro Demarcated Region, Portugal",
   "description": "A GIS practical exercise applying terrain analysis, mating-disruption planning, delta-trap placement, and spatial capture-damage assessment across three flight periods for the grape moth Lobesia botrana at a 42.97-hectare vineyard estate in the Douro Demarcated Region, Portugal.",
-  "creators": [{"name": "Halilu, Naziru", "orcid": "0009-0006-2324-9599"}],
-  "keywords": ["GIS", "precision viticulture", "Lobesia botrana", "grape moth", "vineyard pest monitoring", "spatial analysis", "Douro", "QGIS"],
+  "creators": [
+    {
+      "name": "Halilu, Naziru",
+      "orcid": "0009-0006-2324-9599"
+    }
+  ],
+  "keywords": [
+    "GIS",
+    "precision viticulture",
+    "Lobesia botrana",
+    "grape moth",
+    "vineyard pest monitoring",
+    "spatial analysis",
+    "Douro",
+    "QGIS"
+  ],
   "license": "MIT",
   "upload_type": "dataset",
-  "access_right": "open"
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.22741092",
+      "relation": "isIdenticalTo",
+      "scheme": "doi"
+    }
+  ]
 }
