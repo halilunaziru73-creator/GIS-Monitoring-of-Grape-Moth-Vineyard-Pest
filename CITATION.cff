@@ -16,3 +16,8 @@ keywords:
 - Lobesia botrana
 - vineyard pest monitoring
 - spatial analysis
+
+identifiers:
+- type: doi
+  value: 10.5281/zenodo.22741092
+  description: Archived snapshot on Zenodo
