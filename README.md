@@ -48,43 +48,43 @@ not redistributed in this repository.
 ## Featuring QGIS Outputs Results
 
 ![Farm location](figures/01_farm_location.png)
-*Figure 1. Geographical and cartographic location of Quinta da Senhora da Graca within the Douro Demarcated Region.*
+**Figure 1.** *Geographical and cartographic location of Quinta da Senhora da Graca within the Douro Demarcated Region.*
 
 ![Digital elevation model](figures/02_digital_elevation_model.png)
-*Figure 2. Digital elevation model of the property.*
+**Figure 2.** *Digital elevation model of the property.*
 
 ![Altitude variation](figures/03_altitude_variation.png)
-*Figure 3. Altitude variation across the estate (61-400 m range).*
+**Figure 3.** *Altitude variation across the estate (61-400 m range).*
 
 ![Slope map](figures/04_slope_map.png)
-*Figure 4. Slope map (0-111% range), showing the steepest sections near the Corgo River.*
+**Figure 4.** *Slope map (0-111% range), showing the steepest sections near the Corgo River.*
 
 ![Aspect model](figures/05_aspect_model.png)
-*Figure 5. Aspect model, capturing slope-facing direction across the property.*
+**Figure 5.** *Aspect model, capturing slope-facing direction across the property.*
 
 ![Land use and occupation](figures/06_land_use_and_occupation.png)
-*Figure 6. Land use and land occupation classification of the estate.*
+**Figure 6.** *Land use and land occupation classification of the estate.*
 
 ![Vineyard varietal composition](figures/07_vineyard_varietal_composition.png)
-*Figure 7. Vineyard varietal composition (Cast/variety chart) across the property's 11 grape-variety blocks.*
+**Figure 7.** *Vineyard varietal composition (Cast/variety chart) across the property's 11 grape-variety blocks.*
 
 ![Delta trap locations](figures/08_delta_trap_locations.png)
-*Figure 8. Georeferenced locations of the 25 delta traps installed for Lobesia botrana monitoring.*
+**Figure 8.** *Georeferenced locations of the 25 delta traps installed for Lobesia botrana monitoring.*
 
 ![Captures and damage, April](figures/09_captures_and_damage_april.png)
-*Figure 9. Spatial distribution of Lobesia botrana captures and observed damage during the first flight period (April/May).*
+**Figure 9.** *Spatial distribution of Lobesia botrana captures and observed damage during the first flight period (April/May).*
 
 ![Damage map, May](figures/10_damage_map_may.png)
-*Figure 10. Damage map for May.*
+**Figure 10.** *Damage map for May.*
 
 ![Captures and damage, June-July](figures/11_captures_and_damage_june_july.png)
-*Figure 11. Spatial distribution of captures and damage during the second flight period (June/July).*
+**Figure 11.** *Spatial distribution of captures and damage during the second flight period (June/July).*
 
 ![Captures and damage, August-September](figures/12_captures_and_damage_august_september.png)
-*Figure 12. Spatial distribution of captures and damage during the third flight period (August/September).*
+**Figure 12.** *Spatial distribution of captures and damage during the third flight period (August/September).*
 
 ![Damage map, September](figures/13_damage_map_september.png)
-*Figure 13. Damage map for September.*
+**Figure 13.** *Damage map for September.*
 
 ## Repository Structure
 
