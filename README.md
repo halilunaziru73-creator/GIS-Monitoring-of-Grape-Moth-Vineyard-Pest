@@ -1,6 +1,8 @@
 ### Hi, this is a research repository by Naziru Halilu 👋
 
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) ![QGIS](https://img.shields.io/badge/QGIS-3.x-green)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22741092.svg)](https://doi.org/10.5281/zenodo.22741092)
 
 **GIS Monitoring of Grape Moth (Lobesia botrana)**
 
